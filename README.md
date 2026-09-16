@@ -112,10 +112,10 @@ Create a new GitHub repository
 Push your code to GitHub
 Some reflection questions
 
-Why is version control useful?
-What is the difference between staging and committing?
-When should you make a commit?
-What is the difference between git init and git clone?
-Why should you write good commit messages?
-What is the purpose of using branches?
-When would you create a new branch instead of working on main?
+Why is version control useful? => Version control keeps track of changes in a project and allows us to go back to an older version if something goes wrong.
+What is the difference between staging and committing? => Staging means selecting the changes that will be included in the next commit while committing is saving those charges in the Git history.
+When should you make a commit? => You should make commits often but mostly when you have finished a meaningful part on something.
+What is the difference between git init and git clone? => git init creates a new Git repository in a local folder. git clone copies an existing repository from somewhere else, such as GitHub.
+Why should you write good commit messages? => To understand later on what changed or was added, by me or other people.
+What is the purpose of using branches? => Branches let you work on new features or changes without modifying the main version of the project directly.
+When would you create a new branch instead of working on main? => I would create a new branch when I want to add a feature, fix a bug, or test something without affecting the main branch.
