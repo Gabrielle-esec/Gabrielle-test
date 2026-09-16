@@ -76,19 +76,19 @@ Go to github.com and create a new repository called my-first-repo
 
 ⚠️ Do not initialize it with a README ⚠️
 
-What command links your local repo to GitHub?
+What command links your local repo to GitHub? => https://github.com/Gabrielle-esec/my-first-repo.git
 
-What command pushes your commits to GitHub?
+What command pushes your commits to GitHub? => git push -u origin master
 
-Refresh your GitHub page. What do you see?
+Refresh your GitHub page. What do you see? I see the new repo next to the first I created with the two files.
 
 Part 10: Delete and Clone
 
 Navigate out of your project folder
 
-What command deletes the local repository folder?
+What command deletes the local repository folder? => rm -rf my-first-repo
 
-What command clones your repository from GitHub?
+What command clones your repository from GitHub? => git clone https://github.com/Gabrielle-esec/my-first-repo.git
 
 Navigate into the cloned folder and verify your files are there
 
@@ -111,7 +111,7 @@ Delete the feature branch
 Create a new GitHub repository
 Push your code to GitHub
 Some reflection questions
-gp
+
 Why is version control useful?
 What is the difference between staging and committing?
 When should you make a commit?
